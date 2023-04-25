@@ -1,0 +1,3 @@
+<launch>
+  <node name="roscpp_template" pkg="ros_template" type="roscpp_template" output="screen"/>
+</launch>
